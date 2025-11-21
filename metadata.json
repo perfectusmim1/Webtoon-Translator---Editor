@@ -1,0 +1,5 @@
+{
+  "name": "MangaTranslate AI",
+  "description": "A powerful Webtoon and Manga translator using Gemini 2.5 Flash to detect, translate, and overlay text in real-time.",
+  "requestFramePermissions": []
+}
